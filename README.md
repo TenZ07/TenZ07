@@ -13,14 +13,14 @@
 <br/>
 
 <sub>
-  <code>@TenZ07 · Final Year IT Student · India</code>
+  <code>@TenZ07 · Final Year IT Student · Bangalore</code>
 </sub>
 
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png" width="100"/>
 
-<br/><br/>
+<br/>
 
 *Final-Year IT student who enjoys turning ideas into real products.*  
 *Into AI experiments, full-stack development, Raspberry Pi projects,*  
