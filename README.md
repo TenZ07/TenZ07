@@ -64,7 +64,7 @@
 
 ### *Connect*
 
-<a href="www.linkedin.com/in/monish-anbalagan-a159262b8">
+<a href="https://www.linkedin.com/in/monish-anbalagan-a159262b8/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 <a href="https://github.com/TenZ07">
